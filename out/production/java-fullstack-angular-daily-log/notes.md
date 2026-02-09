@@ -1,12 +1,12 @@
-## Day 02 – Variables & Data Types
+## Day 03 – Operators & User Input
 
 ### Topics Covered
-- Variables in Java
-- Primitive data types
-- String data type
+- Arithmetic operators
+- Scanner class
+- Taking user input
 
 ### Key Learning
-Java is a strongly typed language, so variable type must be declared.
+Scanner class is used to read input from the user in Java.
 
 ### Example
-int age = 22;
+int sum = a + b;
