@@ -1,9 +1,9 @@
-## Day 08 – Class & Object
+## Day 09 – Constructors
 
 ### Topics Covered
-- Class and Object
-- Object creation
-- Accessing variables and methods
+- Constructors in Java
+- Parameterized constructor
+- this keyword
 
 ### Key Learning
-A class is a blueprint, and an object is an instance of a class.
+Constructors initialize objects at the time of creation.
