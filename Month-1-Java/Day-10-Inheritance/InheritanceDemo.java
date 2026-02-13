@@ -5,6 +5,6 @@ class InheritanceDemo {
         Dog d1 = new Dog();
 
         d1.eat();   // inherited method
-        d1.bark();  // own method
+       // d1.bark();//  // own method
     }
 }
